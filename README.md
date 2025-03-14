@@ -1,19 +1,41 @@
-👋 Hi! I'm Gerardo Bautista
+# 👋 ¡Hola! Soy Gerardo Bautista  
 
-🎓 Computer Engineering student at UPIICSA-IPN.
-💻 Computer Technician from CECyT 14, IPN.
-📍 Mexico.
-🚀 Technical Skills
+🎓 **Estudiante de Ingeniería en Computación** en la UPIICSA-IPN.  
+💻 **Técnico en Computación** por el CECyT 14, IPN.  
+📍 Estado de México, México.  
 
-    Languages: C++, Java, MySQL, Python, Excel.
-    Experience in software and hardware maintenance.
-    Knowledge in administration and accounting.
+## 🚀 Tech Stack  
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)  
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)  
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)  
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)  
 
-🎯 Experience
+## 📊 GitHub Stats  
+![BGSushi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=BGSushi&show_icons=true&theme=radical)  
 
-    BWorking (Intern) – Maintenance of audiovisual equipment, IT support, and administrative tasks.
+## 🔥 Lenguajes más usados  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BGSushi&layout=compact&theme=radical)  
 
-🌱 Currently Learning
+## 🎯 Experiencia  
+### **💼 BWorking (Intern)**
+📅 Julio 2024 - Agosto 2024  
+🔹 Mantenimiento de equipo audiovisual.  
+🔹 Soporte en hardware y software.  
+🔹 Apoyo administrativo y contable.  
 
-    Software development, database management, and cybersecurity.
-<img src="https://tryhackme-badges.s3.amazonaws.com/NOBU.png" alt="Your Image Badge" />
+## 🌱 Actualmente aprendiendo  
+- Desarrollo de software.  
+- Administración de bases de datos.  
+- Ciberseguridad.  
+
+## 📫 Conéctate conmigo  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Gerardo%20Bautista-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/gerardo-bautista-ab8b3324a/)  
+[![GitHub](https://img.shields.io/badge/GitHub-BGSushi-black?style=for-the-badge&logo=github)](https://github.com/BGSushi)  
+
+## 🏆 TryHackMe Badge  
+![TryHackMe Badge](https://tryhackme.com/api/badges/public-profile/4340548)  
+
+---
+
+🌟 _Siempre explorando nuevas tecnologías y mejorando mis habilidades._ 🚀  
