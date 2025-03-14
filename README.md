@@ -34,7 +34,7 @@
 [![GitHub](https://img.shields.io/badge/GitHub-BGSushi-black?style=for-the-badge&logo=github)](https://github.com/BGSushi)  
 
 ## 🏆 TryHackMe Badge  
-<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=4340548" style='border:none;'></iframe>
+<img src="https://tryhackme-badges.s3.amazonaws.com/NOBU.png" alt="Your Image Badge" />
 
 ---
 
