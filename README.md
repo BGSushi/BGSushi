@@ -2,8 +2,10 @@
 
 🎓 **Estudiante de Ingeniería en Computación** en la UPIICSA-IPN.  
 💻 **Técnico en Computación** por el CECyT 14, IPN.  
-📍 Estado de México, México.  
-
+📍  México.  
+<div align="center">
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdG5vaGY1bDMzM2VlcWg0NzhwMnZ3YThvMmpnNTMxd3pjdDA1Njl0ZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif" width="400"/>
+</div>
 ## 🚀 Tech Stack  
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)  
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)  
