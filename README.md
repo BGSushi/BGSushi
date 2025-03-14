@@ -1,17 +1,19 @@
-## Hi there 👋
+👋 Hi! I'm Gerardo Bautista
 
-<!--
-**BGSushi/BGSushi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Computer Engineering student at UPIICSA-IPN.
+💻 Computer Technician from CECyT 14, IPN.
+📍 Mexico.
+🚀 Technical Skills
 
-Here are some ideas to get you started:
+    Languages: C++, Java, MySQL, Python, Excel.
+    Experience in software and hardware maintenance.
+    Knowledge in administration and accounting.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🎯 Experience
+
+    BWorking (Intern) – Maintenance of audiovisual equipment, IT support, and administrative tasks.
+
+🌱 Currently Learning
+
+    Software development, database management, and cybersecurity.
 <img src="https://tryhackme-badges.s3.amazonaws.com/NOBU.png" alt="Your Image Badge" />
