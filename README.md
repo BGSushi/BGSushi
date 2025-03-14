@@ -2,18 +2,23 @@
 
 🎓 **Estudiante de Ingeniería en Computación** en la UPIICSA-IPN.  
 💻 **Técnico en Computación** por el CECyT 14, IPN.  
-📍 Estado de México, México.  
+📍  México.  
 
-<div align="center">
-  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdG5vaGY1bDMzM2VlcWg0NzhwMnZ3YThvMmpnNTMxd3pjdDA1Njl0ZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif" width="400"/>
-</div>
-
-## 🚀 Tech Stack  
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)  
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)  
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)  
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
-![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)  
+<table>
+  <tr>
+    <td>
+      <h2>🚀 Tech Stack</h2>
+      <ul>
+        <li>📌 C++, Java, MySQL, Python, Excel.</li>
+        <li>🖥️ Mantenimiento de software y hardware.</li>
+        <li>📊 Administración y contabilidad.</li>
+      </ul>
+    </td>
+    <td>
+      <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdG5vaGY1bDMzM2VlcWg0NzhwMnZ3YThvMmpnNTMxd3pjdDA1Njl0ZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif" width="250" align="right"/>
+    </td>
+  </tr>
+</table>
 
 ## 📊 GitHub Stats  
 ![BGSushi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=BGSushi&show_icons=true&theme=radical)  
@@ -38,9 +43,10 @@
 [![GitHub](https://img.shields.io/badge/GitHub-BGSushi-black?style=for-the-badge&logo=github)](https://github.com/BGSushi)  
 
 ## 🏆 TryHackMe Badge  
-![TryHackMe Badge](https://tryhackme.com/api/badges/public-profile/4340548)  
+<img src="https://tryhackme-badges.s3.amazonaws.com/NOBU.png" alt="Your Image Badge" />
 
 ---
 
 🌟 _Siempre explorando nuevas tecnologías y mejorando mis habilidades._ 🚀  
+
 
